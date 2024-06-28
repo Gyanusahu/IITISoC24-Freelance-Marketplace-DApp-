@@ -10,7 +10,7 @@
 //           <span className="breadcrumbs">
 //             FreelanceNest &gt; Graphics & Design  &gt;
 //           </span>
-//           <h1>I will create ai generated art for you</h1>
+//           <h1>need a create ai generated art for you</h1>
 //           <div className="user">
 //             <img
 //               className="pp"
@@ -241,10 +241,10 @@
 //         <div className="right">
 //           <div className="price">
 //             <h3>1 AI generated image</h3>
-//             <h2>$ 59.99</h2>
+//             <h2>Eth 59.99</h2>
 //           </div>
 //           <p>
-//             I will create a unique high quality AI generated image based on a
+//             need a create a unique high quality AI generated image based on a
 //             description that you give me
 //           </p>
 //           <div className="details">
@@ -293,9 +293,9 @@ function Gig() {
       <div className="container">
         <div className="left">
           <span className="breadcrumbs">
-            FreelanceNest &gt; Graphics & Design  &gt;
+            FreelanceNest &gt; Graphics & Design &gt;
           </span>
-          <h1>I will create ai generated art for you</h1>
+          <h1>need a create ai generated art for you</h1>
           <div className="user">
             <img
               className="pp"
@@ -526,10 +526,10 @@ function Gig() {
         <div className="right">
           <div className="price">
             <h3>1 AI generated image</h3>
-            <h2>$ 59.99</h2>
+            <h2>Eth 59.99</h2>
           </div>
           <p>
-            I will create a unique high quality AI generated image based on a
+            need a create a unique high quality AI generated image based on a
             description that you give me
           </p>
           <div className="details">
