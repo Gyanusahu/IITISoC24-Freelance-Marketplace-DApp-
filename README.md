@@ -1,5 +1,5 @@
 
-Blockchain-Powered Freelance Platform
+Blockchain-Powered Freelance Platform <br>
 Overview
 Welcome to our blockchain-powered freelance platform! Our platform directly links freelancers with clients, removing intermediaries while guaranteeing secure, transparent transactions. It also enables equitable dispute resolution and provides a seamless chat interface between freelancers and clients. Users can post multiple jobs and manage all their freelance projects in one place.
 
